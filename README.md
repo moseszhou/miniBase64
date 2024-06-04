@@ -12,7 +12,7 @@ UTF-8 Decoding: Convert a UTF-8 encoded string back to its original representati
 You can import the Base64 library in your JavaScript project:
 
 ```js
-import { Base64 } from 'mini-base64';
+import { Base64 } from 'str-base64';
 ```
 ### Creating an Instance
 Create an instance of the Base64 class:
