@@ -1,4 +1,4 @@
-# mini-base64
+# str-base64
 ## Base64 Encoding and Decoding Library
 This JavaScript library provides methods to encode and decode strings using Base64 encoding. The library includes functions to handle UTF-8 encoding and decoding to ensure proper encoding of Unicode characters.
 
