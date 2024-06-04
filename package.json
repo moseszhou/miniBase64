@@ -1,0 +1,24 @@
+{
+  "name": "mini-base64",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base64.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moseszhou/miniBase64.git"
+  },
+  "keywords": [
+    "base64",
+    "encode",
+    "decode"
+  ],
+  "author": "moseszhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moseszhou/miniBase64/issues"
+  },
+  "homepage": "https://github.com/moseszhou/miniBase64#readme"
+}
